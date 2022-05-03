@@ -1,0 +1,1 @@
+# OpenBSD for teapots
