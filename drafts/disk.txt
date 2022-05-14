@@ -1,0 +1,5 @@
+/ 100M min
+/usr 1.5G min + 1.2G update
+/var 50M
+/tmp
+/home
