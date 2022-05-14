@@ -1,0 +1,5 @@
+rccctl:
+wsmoused
+wsmoused -i
+ttyC?: copy/paste ?
+ttyp?: ok
