@@ -1,0 +1,3 @@
+mc 
+/usr/local/libexec/mc/ext.d/doc.sh ? pdftotext
+Alt-h = Esc,h - history
