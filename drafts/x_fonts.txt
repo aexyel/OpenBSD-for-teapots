@@ -1,0 +1,5 @@
+~/.fonts
+~/.cache/fontconfig
+~/.fontconfig ?
+fc-cache
+fc-list
