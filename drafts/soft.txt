@@ -1,0 +1,1 @@
+pkg_add p7zip odt2txt
